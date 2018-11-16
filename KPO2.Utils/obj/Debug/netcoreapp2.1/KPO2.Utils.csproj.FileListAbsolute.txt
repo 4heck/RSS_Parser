@@ -1,0 +1,9 @@
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\bin\Debug\netcoreapp2.1\KPO2.Utils.deps.json
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\bin\Debug\netcoreapp2.1\KPO2.Utils.dll
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\bin\Debug\netcoreapp2.1\KPO2.Utils.pdb
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\obj\Debug\netcoreapp2.1\KPO2.Utils.csprojAssemblyReference.cache
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\obj\Debug\netcoreapp2.1\KPO2.Utils.csproj.CoreCompileInputs.cache
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\obj\Debug\netcoreapp2.1\KPO2.Utils.AssemblyInfoInputs.cache
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\obj\Debug\netcoreapp2.1\KPO2.Utils.AssemblyInfo.cs
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\obj\Debug\netcoreapp2.1\KPO2.Utils.dll
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Utils\obj\Debug\netcoreapp2.1\KPO2.Utils.pdb

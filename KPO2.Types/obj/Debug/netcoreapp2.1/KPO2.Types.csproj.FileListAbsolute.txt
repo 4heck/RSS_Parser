@@ -1,0 +1,9 @@
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\bin\Debug\netcoreapp2.1\KPO2.Types.deps.json
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\bin\Debug\netcoreapp2.1\KPO2.Types.dll
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\bin\Debug\netcoreapp2.1\KPO2.Types.pdb
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\obj\Debug\netcoreapp2.1\KPO2.Types.csprojAssemblyReference.cache
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\obj\Debug\netcoreapp2.1\KPO2.Types.csproj.CoreCompileInputs.cache
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\obj\Debug\netcoreapp2.1\KPO2.Types.AssemblyInfoInputs.cache
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\obj\Debug\netcoreapp2.1\KPO2.Types.AssemblyInfo.cs
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\obj\Debug\netcoreapp2.1\KPO2.Types.dll
+C:\Users\mamle\Desktop\учеба\КПО\КПО2 - пример\KPO2.Types\obj\Debug\netcoreapp2.1\KPO2.Types.pdb
